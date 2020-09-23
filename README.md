@@ -11,7 +11,7 @@ The model is in ONNX format. You can use tensorflow as well. Just load it proper
 
 Clone the repo
 
-``` git clone https://github.com/oke-aditya/digit_recognizer ```
+``` git clone https://github.com/bharathkreddy/handwritten-digit-classification.git ```
 
 Install the requirements.
 
