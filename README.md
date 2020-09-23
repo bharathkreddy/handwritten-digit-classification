@@ -2,19 +2,18 @@
 # [www.bharathkreddy.com](https://www.bharathkreddy.com)
 
 
-# Digit Recognizer
+## Digit Recognizer
 Simple Flask App to recongize Handwrtten Digits.
-
-Note while deploying and using I have used Heroku with Gunicorn server.
+I have used Heroku with Gunicorn server.
 
 The model is a simple CNN architecture. It is converted to ONNX format for easy inference using opencv.
 The model is in ONNX format. 
 
-# Check out the app.
-[Launch Application](https://bharathkreddy.herokuapp.com/)
+## Check out the app.
+# [Launch Application](https://bharathkreddy.herokuapp.com/)
 
 
-# Running locally.
+## Running locally.
 
 Clone the repo
 
