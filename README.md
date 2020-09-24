@@ -13,27 +13,5 @@ The model is in ONNX format.
 # [Launch Application](https://bharathkreddy.herokuapp.com/)
 
 
-## Running locally.
-
-Clone the repo
-
-``` git clone https://github.com/bharathkreddy/handwritten-digit-classification.git ```
-
-Install the requirements.
-
-``` pip install -r requirements.txt ```
-
-And you are done. You can now use the entire codebase.
-
-While developing use the flask server
-
-``` python ./web_app.py ```
-
-While deploying locally please use waitress by running
-
-``` python ./serve_waitress.py ```
-
-
-
 
 
